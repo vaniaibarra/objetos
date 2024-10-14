@@ -1,0 +1,16 @@
+.main-section {
+    background-image: url('../img/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .card img {
+    height: 250px;
+  }
+  
